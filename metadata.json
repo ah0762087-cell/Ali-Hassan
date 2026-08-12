@@ -1,0 +1,6 @@
+{
+  "name": "Binary Trend Bot",
+  "description": "Trading signal generator, candlestick charting, backtesting engine and paper trading for forex, crypto and stock trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
